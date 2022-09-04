@@ -1,2 +1,2 @@
-# dio-desafio-github
-Repositório para tudo relacionado ao bootcamp da DIO/Pottencial
+# Pottencial Bootcamp .NET
+Repositório para tudo relacionado ao bootcamp da DIO/Pottencial .NET
