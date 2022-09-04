@@ -1,2 +1,2 @@
 # dio-desafio-github
-Repositório para o desafio de projeto 
+Repositório para tudo relacionado ao bootcamp da DIO/Pottencial
